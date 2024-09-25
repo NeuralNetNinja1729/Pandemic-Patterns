@@ -1,5 +1,5 @@
 
-# COVID-19 Data Visualization Project
+# COVID-19: Pandemic Patterns
 
 This project provides a set of scripts for visualizing COVID-19 data using Python. The project includes several Python files organized under the `FINAL` folder and is designed to generate insights through visual representations of COVID-19 data.
 
